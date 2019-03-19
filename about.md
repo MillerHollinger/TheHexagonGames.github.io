@@ -9,4 +9,4 @@ Thank you for checking out our website. We're always working on new games, so ch
 
 The Hexagon Games Staff  
 Miller Hollinger - Founder, Designer  
-[...] - Artist    
+Aanika Singh - Artist    

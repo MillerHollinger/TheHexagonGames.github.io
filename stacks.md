@@ -13,15 +13,14 @@ Stacks is easy to learn and immensely fun to play. It’s a perfect mix of super
 
 Stacks is a 3-4 player game that takes about a minute from dealing the cards to scoring the round. Play a few rounds at lunch or a few hundred.  
 
-To learn how to play Stacks, read the text rules below or check out the learn-to-play video.  
+To learn how to play Stacks, down the text rules below or check out the learn-to-play video.  
+We recommend the video to get started quickly.  
 
 [VIDEO]  
 
 [BUY BUTTON]  
 
-[TEXT RULES]  
-
-[BUY BUTTON]  
+[TEXT RULES DOWNLOAD BUTTON]
 
 Includes: 15 cards.  
 4x 1 Coin  
