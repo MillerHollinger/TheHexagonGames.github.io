@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /contact
+permalink: /contact/
 ---
 Contact Us.
 Under construction.

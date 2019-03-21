@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /analysis
+permalink: /analysis/
 ---
 Mechanical Analysis section.
 Under construction.

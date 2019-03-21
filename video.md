@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /video
+permalink: /video/
 ---
 Video game section.
 Under construction.

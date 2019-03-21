@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hexworld
+permalink: /hexworld/
 ---
 Hexworld.
 Page under construction.

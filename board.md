@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /board
+permalink: /board/
 ---
 Board game section.
 Under construction.

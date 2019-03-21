@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /card
+permalink: /card/
 ---
 Card game section.
 Under construction.

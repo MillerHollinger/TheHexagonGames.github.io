@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /stacks
+permalink: /stacks/
 ---
 [STACKS LOGO]
 
