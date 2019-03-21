@@ -11,14 +11,14 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Card",
-    "url": "/card/",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Board",
     "url": "/board/",
     "icon": "fas fa-chess-pawn"
+  },
+  {
+    "text": "Card",
+    "url": "/card/",
+    "icon": "fa-comments"
   },
   {
     "text": "Video",
