@@ -12,27 +12,27 @@
   },
   {
     "text": "Card",
-    "url": "/card/",
+    "url": "/card",
     "icon": "fa-comments"
   },
   {
     "text": "Board",
-    "url": "/board/",
+    "url": "/board",
     "icon": "fas fa-chess-pawn"
   },
   {
     "text": "Video",
-    "url": "/video/",
+    "url": "/video",
     "icon": "fa-gamepad"
   },
   {
     "text": "Analysis",
-    "url": "/analysis/",
+    "url": "/analysis",
     "icon": "fas fa-lightbulb"
   },
   {
     "text": "Contact Us",
-    "url": "/contact/",
+    "url": "/contact",
     "icon": "fa-envelope"
   }
 ]
