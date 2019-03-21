@@ -18,21 +18,21 @@
   {
     "text": "Board",
     "url": "/board/",
-    "icon": "fa-comments"
+    "icon": "fa-chess-pawn"
   },
   {
     "text": "Video",
     "url": "/video/",
-    "icon": "fa-comments"
+    "icon": "fa-gamepad"
   },
   {
     "text": "Analysis",
     "url": "/analysis/",
-    "icon": "fa-comments"
+    "icon": "fa-lightbulb"
   },
   {
     "text": "Contact Us",
     "url": "/contact/",
-    "icon": "fa-comments"
+    "icon": "fa-envelope"
   }
 ]
