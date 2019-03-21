@@ -4,5 +4,7 @@
 
 layout: default
 ---
+Welcome to The Hexagon Games!  
+Check out the menu to the right to find whatever you're looking for.
 
-HI!!!!
+This site is currently under construction.

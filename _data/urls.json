@@ -11,24 +11,28 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
+    "text": "Card",
+    "url": "/card/",
+    "icon": "fa-comments"
   },
   {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
+    "text": "Board",
+    "url": "/board/",
+    "icon": "fa-comments"
   },
   {
-    "text": "Github",
-    "url": "/#",
-    "icon": "fa-github"
+    "text": "Video",
+    "url": "/video/",
+    "icon": "fa-comments"
   },
   {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
+    "text": "Analysis",
+    "url": "/analysis/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Contact Us",
+    "url": "/contact/",
+    "icon": "fa-comments"
   }
 ]

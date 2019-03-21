@@ -2,4 +2,5 @@
 layout: page
 permalink: /hexworld
 ---
-wow its a hexworld
+Hexworld.
+Page under construction.
