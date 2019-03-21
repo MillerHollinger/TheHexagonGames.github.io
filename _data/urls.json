@@ -18,7 +18,7 @@
   {
     "text": "Board",
     "url": "/board/",
-    "icon": "fa-chess-pawn"
+    "icon": "fas fa-chess-pawn"
   },
   {
     "text": "Video",
@@ -28,7 +28,7 @@
   {
     "text": "Analysis",
     "url": "/analysis/",
-    "icon": "fa-lightbulb"
+    "icon": "fas fa-lightbulb"
   },
   {
     "text": "Contact Us",
