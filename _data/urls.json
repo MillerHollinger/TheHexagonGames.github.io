@@ -13,7 +13,7 @@
   {
     "text": "Board",
     "url": "/board/",
-    "icon": "fas fa-chess-pawn"
+    "icon": "fas-chess-pawn"
   },
   {
     "text": "Card",
@@ -28,7 +28,7 @@
   {
     "text": "Analysis",
     "url": "/analysis/",
-    "icon": "fas fa-lightbulb"
+    "icon": "fas-lightbulb"
   },
   {
     "text": "Contact Us",
