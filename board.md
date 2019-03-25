@@ -3,5 +3,4 @@ layout: page
 title: Board Games
 permalink: /board_games/
 ---
-Board game section.
-Under construction.
+We haven't published any board games yet, but one is in the works.  
