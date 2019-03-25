@@ -12,17 +12,17 @@
   },
   {
     "text": "Board",
-    "url": "/board/",
+    "url": "/board_games/",
     "icon": "fa-comments"
   },
   {
     "text": "Card",
-    "url": "/card/",
+    "url": "/card_games/",
     "icon": "fa-comments"
   },
   {
     "text": "Video",
-    "url": "/video/",
+    "url": "/video_games/",
     "icon": "fa-gamepad"
   },
   {
