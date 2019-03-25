@@ -26,11 +26,6 @@
     "icon": "fa-gamepad"
   },
   {
-    "text": "Analysis",
-    "url": "/analysis/",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Contact Us",
     "url": "/contact/",
     "icon": "fa-envelope"
