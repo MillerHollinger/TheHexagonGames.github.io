@@ -6,6 +6,9 @@ permalink: /stacks/
 [STACKS LOGO]
 
 [BUY BUTTON]
+<form action="thehexagongames.com">
+  <button type="button" class="btn btn-primary">Buy</button>
+</form>
 
 Stacks is a compact bluffing game where the stakes are high and they keep raising.  
 Play cards into your Stack to score points. Increase the bid to match your Stack.  
