@@ -5,7 +5,6 @@ permalink: /stacks/
 ---
 [STACKS LOGO]
 
-[BUY BUTTON]
 <form action="thehexagongames.com">
   <button type="button" class="btn btn-primary">Buy</button>
 </form>
