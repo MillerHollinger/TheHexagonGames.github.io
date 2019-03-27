@@ -1,8 +1,8 @@
-title: John Smith
-description: My Personal Blog
+title: The Hexagon Games
+description: Board, card, and video games by The Hexagon Games.
 author: The Hexagon Games
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/MillerHollinger
 about: Games
 
 allowsearch: true
@@ -16,7 +16,7 @@ relative_links:
 
 
 disqus_shortname:
-google_analytics: 
+google_analytics:
 
 share:
   twitter_username: \#
