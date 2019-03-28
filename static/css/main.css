@@ -1,6 +1,41 @@
+/*
+Note to self: this is where the REAL css goes
+*/
+
+:root{
+  --site-main-color: #008795;
+  --icon-color: #008896;
+  --chosen-item-bar-color: #28B8CA;
+  --hover-item-color: #00727d;
+  --subtitle-color: #017bc8;
+  --error-color: #EF7272;
+  --navbar-toggle-color: #BCBFCC;
+
+}
+
+.saleButton{
+  border-width: thin;
+  border-style: solid;
+  border-color: var(--site-main-color);
+}
+
+.mainSelector{
+  background-color: var(--site-main-color)!important;
+}
+
+
+a{
+  color: var(--site-main-color);
+  text-decoration: underline;
+}
+
+/*
+End of custom css: Theme css begins
+*/
+
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: #009587;
+    background-color: var(--site-main-color);
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -55,7 +90,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #009688;
+    color: var(--icon-color);
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -63,7 +98,7 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #009688;
+    background: var(--icon-color);
 }
 .menu ul li {
     list-style: none;
@@ -71,7 +106,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #007D72;
+    background: var(--hover-item-color);
 }
 li.current-menu-item:before {
     content: "";
@@ -81,7 +116,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #B8CA28;
+    background: var(--chosen-item-bar-color);
 }
 .menu ul li a {
     font-size: 15px;
@@ -96,7 +131,7 @@ li.current-menu-item:before {
     font-size: 26px;
     margin-bottom: 32px;
     margin-top: 5px;
-    color: #01c87b;
+    color: var(--subtitle-color);
     font-weight: 300;
 }
 h2.blog-title-pro{color: #fff;}
@@ -141,14 +176,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     font-size: 20px;
 }
 .error {
-    color: #EF7272!important;
+    color: var(--error-color)!important;
     font-size: 12px!important;
 }
 #portfolio-filter {
         margin-top: 50px;
 }
 .navbar-toggle i {
-    color: #BCCCBF;
+    color: var(--navbar-toggle-color);
 }
 .menu .list-group-item-heading, .menu .list-group-item-text{
     color:#fff!important;

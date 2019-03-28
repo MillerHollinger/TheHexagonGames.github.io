@@ -5,9 +5,7 @@ permalink: /stacks/
 ---
 [STACKS LOGO]
 
-<form action="thehexagongames.com">
-  <button type="button" class="btn btn-primary">Buy</button>
-</form>
+<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy</button>
 
 Stacks is a compact bluffing game where the stakes are high and they keep raising.  
 Play cards into your Stack to score points. Increase the bid to match your Stack.  
@@ -21,9 +19,9 @@ We recommend the video to get started quickly.
 
 [VIDEO]  
 
-[BUY BUTTON]  
-
 [TEXT RULES DOWNLOAD BUTTON]
+
+<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy</button>
 
 Includes: 15 cards.  
 4x 1 Coin  
