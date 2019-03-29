@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Contact Us
 permalink: /contact/
 ---
 Get in contact with The Hexagon Games!  
