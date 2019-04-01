@@ -13,12 +13,12 @@
   {
     "text": "Board",
     "url": "/board_games/",
-    "icon": "fa-comments"
+    "icon": "fa-dice"
   },
   {
     "text": "Card",
     "url": "/card_games/",
-    "icon": "fa-comments"
+    "icon": "fa-box"
   },
   {
     "text": "Video",

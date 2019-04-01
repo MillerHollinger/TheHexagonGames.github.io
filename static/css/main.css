@@ -3,10 +3,10 @@ Note to self: this is where the REAL css goes
 */
 
 :root{
-  --site-main-color: #008795;
-  --icon-color: #008896;
-  --chosen-item-bar-color: #28B8CA;
-  --hover-item-color: #00727d;
+  --site-main-color: #0067B5;
+  --icon-color: #0078B6;
+  --chosen-item-bar-color: #28B8DA;
+  --hover-item-color: #0072BD;
   --subtitle-color: #017bc8;
   --error-color: #EF7272;
   --navbar-toggle-color: #BCBFCC;
@@ -19,14 +19,20 @@ Note to self: this is where the REAL css goes
   border-color: var(--site-main-color);
 }
 
-.mainSelector{
+.mainSelector {
   background-color: var(--site-main-color)!important;
 }
 
+.btn:not(.btn-raised).btn-primary, .input-group-btn .btn:not(.btn-raised).btn-primary{
+  color: var(--site-main-color);
+}
 
 a{
   color: var(--site-main-color);
   text-decoration: underline;
+}
+a:focus, a:hover{
+  color: var(--hover-item-color);
 }
 
 /*

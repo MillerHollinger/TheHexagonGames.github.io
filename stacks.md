@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page  
 title: Stacks
 permalink: /stacks/
 ---
 [STACKS LOGO]
 
-<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy</button>
+<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
 Stacks is a compact bluffing game where the stakes are high and they keep raising.  
 Play cards into your Stack to score points. Increase the bid to match your Stack.  
@@ -21,7 +21,7 @@ We recommend the video to get started quickly.
 
 [TEXT RULES DOWNLOAD BUTTON]
 
-<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy</button>
+<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
 Includes: 15 cards.  
 4x 1 Coin  
