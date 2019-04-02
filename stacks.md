@@ -3,7 +3,7 @@ layout: page
 title: Stacks
 permalink: /stacks/
 ---
-[STACKS LOGO]
+<img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_header.png" alt="Stacks Logo">
 
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
