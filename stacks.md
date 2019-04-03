@@ -10,7 +10,9 @@ permalink: /stacks/
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
 <div class="gallery" style="float: right">
-  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1.JPG" alt="Stacks Box" width="100" height="100">
+  <a href='https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1.JPG'>
+    <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1.JPG" alt="Stacks Box" width="100" height="100">
+  </a>
   <div class="desc">Box of Stacks</div>
 </div>
 
@@ -26,7 +28,9 @@ Stacks is a 3-4 player game that takes about a minute from dealing the cards to 
 To learn how to play Stacks, read the text rules below or check out the learn-to-play video.  
 We recommend the video to get started quickly.
 <div class="gallery" style="float: right">
-  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG" alt="Stacks Cards" width="1113" height="832">
+  <a href='https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG'>
+    <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG" alt="Stacks Cards" width="1113" height="832">
+  </a>
   <div class="desc">Six different cards</div>
 </div>
 
