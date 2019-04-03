@@ -21,7 +21,7 @@ We recommend the video to get started quickly.
 
 [VIDEO]  
 
-(Full Stacks Rules Text)[https://docs.google.com/document/d/1ALDfTBiWL6Bs9XHl6D66jbR27kmQSUiFFyEO83S8OG8/edit?usp=sharing "Stacks Rules"]
+[Full Stacks Rules Text](https://docs.google.com/document/d/1ALDfTBiWL6Bs9XHl6D66jbR27kmQSUiFFyEO83S8OG8/edit?usp=sharing)
 
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
