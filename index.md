@@ -4,7 +4,13 @@
 title: Home
 layout: default
 ---
-Welcome to The Hexagon Games!  
+# Welcome to The Hexagon Games!  
 Check out the menu to the left to find whatever you're looking for.
 
-This site is currently under construction.
+<hr color="gray">
+
+***NEW RELEASE***  
+Stacks : 15-Card Bluffing Action!
+<button style="border: none;" onclick="window.location.href = 'https://thehexagongames.com/stacks';">
+  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_header.png" alt="Stacks Logo">
+</button>
