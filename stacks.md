@@ -18,9 +18,9 @@ Stacks is a 3-4 player game that takes about a minute from dealing the cards to 
 
 <div class="gallery">
   <a target="_blank" href="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1" alt="Stacks Box" width="800" height="832">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">The compact box of Stacks</div>
 </div>
 
 # Learn to Play Stacks  
