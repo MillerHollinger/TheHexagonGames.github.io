@@ -9,25 +9,30 @@ permalink: /stacks/
 
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
+<div class="gallery" style="float: right">
+  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1.JPG" alt="Stacks Box" width="100" height="100">
+  <div class="desc">Box of Stacks</div>
+</div>
+
 Stacks is a compact bluffing game where the stakes are high and they keep raising.  
 Play cards into your Stack to score points. Increase the bid to match your Stack.  
-Get caught lying and lose it all. Catch someone else and steal everything they’ve got.  
+Get caught lying and lose it all. Catch someone else and steal everything they’ve got.
+
 Stacks is easy to learn and immensely fun to play. It’s a perfect mix of supercharged luck and laugh-out-loud deception that will have you coming back again and again.  
 
 Stacks is a 3-4 player game that takes about a minute from dealing the cards to scoring the round. Play a few rounds at lunch or a few hundred.  
 
-<div class="gallery">
-  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_1.JPG" alt="Stacks Box" width="800" height="832">
-  <div class="desc">The compact box of Stacks</div>
-</div>
-
 # Learn to Play Stacks  
 To learn how to play Stacks, down the text rules below or check out the learn-to-play video.  
-We recommend the video to get started quickly.  
+We recommend the video to get started quickly.
+<div class="gallery" style="float: right">
+  <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG" alt="Stacks Cards" width="1113" height="832">
+  <div class="desc">Six different cards</div>
+</div>
 
 [VIDEO]  
 
-[Full Stacks Rules Text](https://docs.google.com/document/d/1ALDfTBiWL6Bs9XHl6D66jbR27kmQSUiFFyEO83S8OG8/edit?usp=sharing)
+<a href="https://thehexagongames.com/uploaded-files/card-games/stacks/Stacks_Rules.pdf">Full Stacks Rules Text
 
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
 
