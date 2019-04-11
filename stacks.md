@@ -35,7 +35,7 @@ To learn how to play Stacks, read the text rules below. A learn-to-play video is
 
 <a href="https://thehexagongames.com/uploaded-files/card-games/stacks/Stacks_Rules.pdf">Full Stacks Rules Text
 
-<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">Buy Stacks</button>
+<button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">View on The Game Crafter</button>
 
 Includes: 15 cards.  
 4x 1 Coin  
