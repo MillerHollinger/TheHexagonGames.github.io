@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LOCK PASS CNTR
+title: LOCK-PASS-CNTR
 permalink: /lpc/
 ---
 [HEADER]
