@@ -6,5 +6,5 @@ layout: default
 ---
 # Welcome to The Hexagon Games!  
 Open the menu to navigate the website.  
-Coming soon: LOCK PASS CNTR  
+Coming soon: LOCK PASS CNTR  !
 Three cards, endless chaotic fun!  
