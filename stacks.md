@@ -38,9 +38,9 @@ To learn how to play Stacks, read the text rules below. A learn-to-play video is
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/stacks3';" class="btn btn-primary saleButton">View on The Game Crafter</button>
 
 Includes: 15 cards.  
-4x 1 Coin  
-4x 2 Coin  
-3x 3 Coin  
-2x 4 Coin  
-1x 5 Coin  
-1x -10 Coin  
+4x 1 Card  
+4x 2 Card  
+3x 3 Card  
+2x 4 Card  
+1x 5 Card  
+1x -10 Card  

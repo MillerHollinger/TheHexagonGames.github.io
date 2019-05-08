@@ -4,7 +4,7 @@ title: LOCK PASS CNTR
 permalink: /lpc/
 ---
 [HEADER]  
-
+  
 <button type="button" onclick="window.location.href = 'https://www.thegamecrafter.com/games/lock-pass-cntr';" class="btn btn-primary saleButton">Buy LOCK PASS CNTR</button>  
 
 Rapidly take one-second turns playing one card. Lock to take another turn. Pass to move the turn to the next player. Counter to reverse the turn order. You can only draw cards when it's not your turn.  
@@ -19,4 +19,3 @@ To learn how to play LOCK PASS COUNTER, read the text rules below. A learn-to-pl
 [VIEW ON TGC]  
 
 [CONTENTS]  
-  
