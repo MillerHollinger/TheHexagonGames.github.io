@@ -25,7 +25,8 @@ Stacks is easy to learn and immensely fun to play. It’s a perfect mix of super
 Stacks is a 3-4 player game that takes about a minute from dealing the cards to scoring the round. Play a few rounds at lunch or a few hundred.  
 
 # Learn to Play Stacks  
-To learn how to play Stacks, read the text rules below. A learn-to-play video is coming soon.
+To learn how to play Stacks, just watch this short learn-to-play video! You can also read the rules in a text format if you prefer.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0auCyy7-SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="gallery" style="float: right">
   <a href='https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG'>
     <img src="https://thehexagongames.com/uploaded-files/card-games/stacks/stacks_img_2.JPG" alt="Stacks Cards" width="1113" height="832">
