@@ -3,8 +3,9 @@ layout: page
 title: Card Games
 permalink: /card_games/
 ---
-Coming soon: **LOCK PASS CNTR**  
-Three cards, endless chaotic fun!  
-  
+Check out The Hexagon Game's library of card games!
+
 [Stacks](/stacks/ "Stacks")  
 The Quick-Dealing 15-Card Bluffing Game  
+
+... more to come ...
