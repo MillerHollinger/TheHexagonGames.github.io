@@ -10,10 +10,8 @@ permalink: /champions/
 
 September's restriction was **Identical Cards**. Every card must be the exact same, front and back!  
 
-<div class="gallery" style="float: left">
-  <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Blue.png" alt="Logo" width="250" height="350">
-  <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Red.png" alt="Logo" width="250" height="350">  
-</div>  
+<img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Blue.png" alt="Logo" width="125" height="175">
+<img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Red.png" alt="Logo" width="125" height="175">  
 
 Champions is a 2 player turn-based strategic lane battler.  
 Both players control an army of units, each of which can be individually upgraded.  
