@@ -1,13 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home
-layout: default
+layout: page
+title: About
+permalink: /18-card-challenge/
 ---
-# Welcome to The Hexagon Games!  
-Open the menu to navigate the website.     
-
-The Hexagon Games is participating in Button Shy's monthly 18-card design challenge! Check out our entries below.  
+The Button Shy 18 Card Challenge is a monthly themed game design competition.  
+Each month features a unique restriction, although all games must use exactly 18 cards.  
+Have a look at our entries below!  
 
 November: Panama (Game About a Real Place)   
   Panama is a two-player strategic game about getting your ships through the country's famous canal.    
