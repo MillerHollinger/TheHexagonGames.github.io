@@ -10,7 +10,7 @@ permalink: /champions/
 
 September's restriction was **Identical Cards**. Every card must be the exact same, front and back!  
 
-<p style="margin-top: 20px" style="float: right">
+<p style="margin-top: 20px; margin-bottom: 20px; float: right">
   <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Blue.png" alt="Logo" width="125" height="175" style="float: right">
   <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Red.png" alt="Logo" width="125" height="175" style="float: right">  
 </p>
