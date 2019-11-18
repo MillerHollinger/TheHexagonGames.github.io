@@ -16,6 +16,7 @@ September's restriction was **Identical Cards**. Every card must be the exact sa
 </p>
 
 Champions is a 2 player turn-based strategic lane battler.  
+<br/>  
 Both players control an army of units, each of which can be individually upgraded.  
 A free print-and-play for Champions is available on Google Drive alongside the rules.  
 
