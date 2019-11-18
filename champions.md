@@ -9,7 +9,7 @@ permalink: /champions/
 **Champions** is our entry for Button Shy's September 18 Card Challenge.  
 
 September's restriction was **Identical Cards**. Every card must be the exact same, front and back!  
-
+<br/>
 <p style="margin-top: 10px; margin-bottom: 10px; float: right">
   <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Blue.png" alt="Logo" width="125" height="175" style="float: right">
   <img src="https://thehexagongames.com/uploaded-files/card-games/champions/Card-Red.png" alt="Logo" width="125" height="175" style="float: right">  
