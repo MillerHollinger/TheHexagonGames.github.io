@@ -9,11 +9,11 @@ Have a look at our entries below!
 
 November: Panama (Game About a Real Place)   
   Panama is a two-player strategic game about getting your ships through the country's famous canal.    
-  Panama is still in production. We'll update the site when it's ready!  
+  We're still waiting to see the outcome of November's competition.
 
 October: [ROYALE](/royale/ "ROYALE") (No Table Allowed)  
   ROYALE is an all-versus-one exchange and bluffing game about starting a revolution.  
-  We're still waiting to see the outcome of October's competition.  
+  ROYALE won a top three spot!
 
 September: [Champions!](/champions/ "Champions") (All Cards Identical)  
   Champions is a two-player strategic face-off with a unique unit upgrade system.  
