@@ -9,13 +9,13 @@ Open the menu to navigate the website.
 
 The Hexagon Games is participating in Button Shy's monthly 18-card design challenge! Check out our entries below.  
 
-November: Panama (Game About a Real Place)   
+November: [Panama](/panama/ "Panama") (Game About a Real Place)   
   Panama is a two-player strategic game about getting your ships through the country's famous canal.    
-  Panama is still in production. We'll update the site when it's ready!  
+  November's competition is still being judged.
 
 October: [ROYALE](/royale/ "ROYALE") (No Table Allowed)  
   ROYALE is an all-versus-one exchange and bluffing game about starting a revolution.  
-  We're still waiting to see the outcome of October's competition.  
+  ROYALE won a top 3 spot in October's competition!
 
 September: [Champions!](/champions/ "Champions") (All Cards Identical)  
   Champions is a two-player strategic face-off with a unique unit upgrade system.  
