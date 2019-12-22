@@ -9,7 +9,7 @@ Have a look at our entries below!
 
 November: [Panama](/panama/ "Panama") (Game About a Real Place)   
   Panama is a two-player strategic game about getting your ships through the country's famous canal.    
-  November's competition is still being judged.
+  Panama is a finalist! We'll find out if it won next week.
 
 October: [ROYALE](/royale/ "ROYALE") (No Table Allowed)  
   ROYALE is an all-versus-one exchange and bluffing game about starting a revolution.  
