@@ -12,7 +12,6 @@ November's restriction was **About a Real Place**. The game had to be themed aro
 
 <div class="gallery" style="float: right">  
   <img src="https://thehexagongames.com/uploaded-files/card-games/panama/GreenCruiser.png" alt="Logo" width="1050" height="750">  
-  <img src="https://thehexagongames.com/uploaded-files/card-games/panama/OrangeTug.png" alt="Logo" width="1050" height="750">   
 </div>
 
 Panama is a one-on-one strategy game about getting your ships through the famously crowded Panama Canal first.

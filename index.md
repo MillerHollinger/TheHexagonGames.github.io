@@ -7,16 +7,6 @@ layout: default
 # Welcome to The Hexagon Games!  
 Open the menu to navigate the website.     
 
-The Hexagon Games is participating in Button Shy's monthly 18-card design challenge! Check out our entries below.  
-
-November: [Panama](/panama/ "Panama") (Game About a Real Place)   
-  Panama is a two-player strategic game about getting your ships through the country's famous canal.    
-  Panama was one of 15 finalists.
-
-October: [ROYALE](/royale/ "ROYALE") (No Table Allowed)  
-  ROYALE is an all-versus-one exchange and bluffing game about starting a revolution.  
-  ROYALE won a top 3 spot in October's competition!
-
-September: [Champions!](/champions/ "Champions") (All Cards Identical)  
-  Champions is a two-player strategic face-off with a unique unit upgrade system.  
-  Champions didn't place in the contest for September.  
+The Hexagon games is currently developing video games for the platform Roblox.  
+Our current project is "Rocketball" -- the sci-fi free-for-all dodgeball game!  
+You can see it [here]("https://www.roblox.com/games/4565818147/Rocketball-Testing-BETA").  
