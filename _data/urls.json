@@ -26,6 +26,11 @@
     "icon": "fa-gamepad"
   },
   {
+    "text": "Economic",
+    "url": "/economic/",
+    "icon": "fa-money-bill-alt"
+  },
+  {
     "text": "Contact Us",
     "url": "/contact/",
     "icon": "fa-envelope"

@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /18-card-challenge/
 ---
-The Button Shy 18 Card Challenge is a monthly themed game design competition.  
-Each month features a unique restriction, although all games must use exactly 18 cards.  
+The Button Shy 18 Card Challenge was a monthly themed game design competition.  
+All games had to use exactly 18 cards. Each month also featured a unique bonus restriction.
 Have a look at our entries below!  
 
 November: [Panama](/panama/ "Panama") (Game About a Real Place)   
