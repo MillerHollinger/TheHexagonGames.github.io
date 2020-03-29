@@ -8,5 +8,5 @@ layout: default
 Open the menu to navigate the website.     
 
 The Hexagon games is currently developing video games for the platform Roblox.  
-Our current project is "Rocketball" -- the sci-fi free-for-all dodgeball game!  
-You can see it [here]("https://www.roblox.com/games/4565818147/Rocketball-Testing-BETA").  
+Our current project is "Lootways," a fantastic open-world adventure game!    
+We'll release a demo soon.   
