@@ -8,5 +8,5 @@ layout: default
 Open the menu to navigate the website.     
 
 The Hexagon games is currently developing video games for the platform Roblox.  
-Our current project is "Lootways," a fantastic open-world adventure game!    
-We'll release a demo soon.   
+Our current project is "Lootways," a PvP adventure game!    
+You can play the Lootways Beta here: [Lootways](https://www.roblox.com/games/4798141692/Lootways-TESTING?refPageId=695e40d6-f30c-47f5-9c4a-a086f1345123)
