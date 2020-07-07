@@ -3,5 +3,5 @@ layout: page
 title: HexWorld
 permalink: /hexworld/
 ---
-Hexworld.
-Page under construction.
+HexWorld has been retired. Thanks to all who played!  
+HexWorld was a multiplayer online civilization-building game.
