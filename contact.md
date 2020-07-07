@@ -5,10 +5,8 @@ permalink: /contact/
 ---
 Get in contact with The Hexagon Games!
 
-See [TheHexagonGames](https://twitter.com/TheHexagonGames) on Twitter for updates on all of our games as well as information about new releases.  
+<button type="button" onclick="window.location.href = 'https://twitter.com/TheHexagonGames';" class="btn btn-primary saleButton">Twitter</button>  
+See THG on Twitter for updates on all of our games as well as information about new releases.    
 
-<button type="button" onclick="window.location.href = 'https://forms.gle/5hgUh7Ra7juQoD6M9';" class="btn btn-primary saleButton">Join Mailing List</button>  
-Join our mailing list to know when new games come out or discounts happen.  
-
-<button type="button" onclick="window.location.href = 'https://forms.gle/uQFASkk35uBVeGZy7';" class="btn btn-primary saleButton">Send Feedback</button>  
-Got something to say? Send it to us here and we'll read it.  
+<button type="button" onclick="window.location.href = 'https://twitter.com/TheHexagonGames';" class="btn btn-primary saleButton">Discord</button>  
+Join our friendly Discord community to ask questions, get help, discuss games, and more!  
