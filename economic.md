@@ -7,7 +7,7 @@ Try out these free economic simulation games to help learn or teach!
 Each game is designed to be both engaging and educational.  
 You'll need at least 15 people for most of the simulations. More is (generally) better!    
 
-[**The Economy of Global Warming**](/the-economy-of-global-warming/)
+[**The Economy of Global Warming**](/the-economy-of-global-warming/)  
 *Topics: Environmental Protection*  
 
 [**Making Bank**](/making-bank/)  

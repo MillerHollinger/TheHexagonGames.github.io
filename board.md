@@ -11,5 +11,5 @@ The Hexagon Games' library of board games!
 [Gates](/gates/ "Gates")  
 Abstract 2-player strategy game with zero luck. (PnP)
 
-[Delta Six](/delta-six/ "Delta Six")
+[Delta Six](/delta-six/ "Delta Six")  
 Sci-fi story game. Follow the story of a small security firm in the big city. (PnP)
