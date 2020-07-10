@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 18 Card Challenge
 permalink: /18-card-challenge/
 ---
 The Button Shy 18 Card Challenge was a monthly themed game design competition.  
