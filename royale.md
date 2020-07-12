@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ROYALE
+title: Royale
 permalink: /royale/
 ---
 **Royale** was our entry for Button Shy's October 18 Card Challenge.  
