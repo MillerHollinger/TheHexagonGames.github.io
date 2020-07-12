@@ -3,7 +3,6 @@ layout: page
 title: ROYALE
 permalink: /royale/
 ---
-# Royale
 **Royale** was our entry for Button Shy's October 18 Card Challenge.  
 
 October's restriction was **No Table**. The game can't use a table or other surface: All cards must be held in hand!  
